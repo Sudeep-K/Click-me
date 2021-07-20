@@ -1,7 +1,4 @@
 ﻿  Game.cpp
-D:\cpp\Spaceshooter\Spaceshooter\Game.cpp(89,25): warning C4018: '<': signed/unsigned mismatch
-D:\cpp\Spaceshooter\Spaceshooter\Game.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
-D:\cpp\Spaceshooter\Spaceshooter\Game.cpp(111,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-  main.cpp
-  Generating Code...
+D:\cpp\Spaceshooter\Spaceshooter\Game.cpp(140,25): warning C4018: '<': signed/unsigned mismatch
+D:\cpp\Spaceshooter\Spaceshooter\Game.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
   Spaceshooter.vcxproj -> D:\cpp\Spaceshooter\Debug\Spaceshooter.exe
